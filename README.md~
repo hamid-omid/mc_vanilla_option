@@ -1,8 +1,8 @@
 Vanilla Option Pricing 
 ========================
 
-This is the source code for pricing a Vanilla Option (European) 
- [[+]](https://en.wikipedia.org/wiki/Option_style). The release verison has a Linux executable file "Vanilla_Option_Pricing".
+This is the source code written in **C++** for pricing a **Vanilla Option**
+ [(European) ](https://en.wikipedia.org/wiki/Option_style). The release verison has a Linux executable file called "Vanilla_Option_Pricing".
  
 **Author:**
 
